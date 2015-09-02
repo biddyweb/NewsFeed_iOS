@@ -16,7 +16,9 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    [self setInitialViewController];
+    
+    NSLog(@"AppDelegate: didFinishLaunchingWithOptions: Language: %@",[[NSUserDefaults standardUserDefaults] valueForKey: PREF_LANGUAGE]);
     return YES;
 }
 
@@ -124,4 +126,27 @@
     }
 }
 
+#pragma mark - Initial View
+- (void)setInitialViewController {
+    UIStoryboard *storyboard;
+    if (IS_IPAD) {
+        //storyboard = [UIStoryboard storyboardWithName:@"iPadStoryboard6" bundle:nil];
+    } else {
+        storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+    }
+    UIViewController* vc;
+    if ([[NSUserDefaults standardUserDefaults] valueForKey:PREF_LANGUAGE] == nil) {
+        vc = [storyboard instantiateViewControllerWithIdentifier:@"LoginView_SID"];}
+    else {
+        vc = [storyboard instantiateViewControllerWithIdentifier:@"RootView_SID"];
+        
+        /*if (IS_IPAD) {
+         self.splitViewController = (CustomSplitViewController*)vc;
+         self.splitViewController.delegate = [((UISplitViewController*) vc).viewControllers lastObject]; // No you cant simply do this in the Storyboard...
+         }*/
+    }
+    
+    self.window.rootViewController = vc;
+    [self.window makeKeyAndVisible];
+}
 @end

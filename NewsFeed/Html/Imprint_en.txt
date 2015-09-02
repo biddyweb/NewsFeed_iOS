@@ -1,0 +1,39 @@
+<h1>Imprint</h1>
+<p>Condor Flugdienst GmbH
+<br>Condor Platz
+<br>60549 Frankfurt am Main
+<br>Germany</p>
+<p>Aufsichtsrat
+<br>Heiner Wilkens (Vorsitzender)</p>
+<p>Gesch&auml;ftsf&uuml;hrung
+<br>Ralf Teckentrup (Vorsitzender),
+<br>Uwe Balser,
+<br>Dr. Ulrich Johannwille</p>
+<p>Sitz
+<br>Kelsterbach Gesch&auml;ftsstelle
+<br>Condor Platz
+<br>60549 Frankfurt am Main</p>
+<br>Registergericht und Handelsregister-Nr.:
+<br>Amtsgericht Darmstadt Nr. 83385
+<br>Umsatzsteuer-Ident-Nummer (USt-ID-Nr.)
+<br>DE 811163229</p>
+<p>Herausgeber der App
+<br>Johannes Winter
+<br>Condor Platz
+<br>60549 Frankfurt am Main
+<br>Germany
+<br>E-Mail: <a href="mailto:kommunikation@condor.com">kommunikation@condor.com</a>
+<br>Telefon: +49 (0)6107 939 - 7804</p>
+<p>Redaktion
+<br>Johannes Winter
+<br>Condor Platz
+<br>60549 Frankfurt am Main
+<br>Germany
+<br>E-Mail: <a href="mailto:kommunikation@condor.com">kommunikation@condor.com</a>
+<br>Telefon: +49 (0)6107 939 - 7804</p>
+<p>Konzeption der App, technische Umsetzung
+<br>COMKOM&deg; GmbH
+<br>S&uuml;dring 14
+<br>44787 Bochum
+<br>Germany</p>
+<p><a href="https://www.condor.com/de/hilfe-kontakt/datenschutzerklaerung.jsp">Datenschutzhinweise</a></p>

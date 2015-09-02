@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  NewsFeed
+
+  Created by AlexKern on 31.07.15.
+  Copyright (c) 2015 Kaasa Solution. All rights reserved.
+*/
+
+/* chooseFeed Button */
+"choose_feeds_button" = "Choose your news feeds";
+
+/* selectFeedHeadline Label */
+"selectFeedHeadline" = "Choose one or more news feeds";
+
+/* readFeedButton */
+"readFeedButton" = "Read news now";
+
+/* ImprintHeadline */
+"ImprintHeadline" = "Imprint";
+
+/* ImprintContent */
+"ImprintContent" = "English Sülze";
+
+/* refreshView LoadingData */
+"refreshViewLoadingData" = "Loading data ...";
+
+/* offlineSettings HeaderLabel */
+"offlineSettingsHeaderLabel" = "Here you can download all news for offline reading";
+
+/* offlineSettings HeaderLabel during download*/
+"offlineSettingsHeaderLabel_Download" = "Please be patient until the articles are being downloaded for offline reading";
+
+/* offlineSettings Explanation */
+"offlineSettingsExplanationLabel" = "With the download feature, the latest news will be stored on your mobile device. Thereby the news will also be available without any internet connection. Depending on the speed of the connection, a full download may take some time. You can therefore opt to exclude films and PDFs from the download. You can also set general preferences for downloading news for offline reading under Settings";
+
+/* offlineSettings Explanation during download */
+"offlineSettingsExplanationLabel_Download" = "Depending on your connection the download may take a while";
+
+/* offlineSettingsVideoSyncLabel */
+"offlineSettingsVideoSyncLabel" = "Also save films";
+
+/* offlineSettingsSyncPDFLabel */
+"offlineSettingsSyncPDFLabel" = "Also save PDFs";
+
+/* offlineSettingsDownloadButton */
+"offlineSettingsDownloadButton" = "Cancel";

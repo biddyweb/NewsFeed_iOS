@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  NewsFeed
+
+  Created by AlexKern on 31.07.15.
+  Copyright (c) 2015 Kaasa Solution. All rights reserved.
+*/
+
+/* choosefeed button */
+"choose_feeds_button" = "Wählen Sie Ihre News-Feeds";
+
+/* selectFeedHeadline Label */
+"selectFeedHeadline" =  "Wählen Sie einen oder\
+mehrere News-Feeds";
+
+/* readFeedButton */
+"readFeedButton" = "Jetzt Nachrichten lesen";
+
+/* ImprintHeadline */
+"ImprintHeadline" = "Impressum";
+
+/* ImprintContent */
+"ImprintContent" = "Deutsche Sülze\
+http://www.kaasa.com";
+
+/* refreshView LoadingData */
+"refreshViewLoadingData" = "Lade Daten ...";
+
+/* offlineSettings HeaderLabel */
+"offlineSettingsHeaderLabel" = "Laden Sie sich alle Artikel zum Offline-Lesen herunter";
+
+/* offlineSettings HeaderLabel during download*/
+"offlineSettingsHeaderLabel_Download" = "Bitte haben Sie ein wenig Geduld, bis die Artikel zum Ofﬂine-Lesen heruntergeladen wurden";
+
+/* offlineSettings Explanation */
+"offlineSettingsExplanationLabel" = "Mit dem Download laden Sie die neusten Nachrichten auf Ihr mobiles Gerät, um sie auch ohne Internetverbindung lesen zu können. Ein vollständiger Download kann je nach Verbindung dauern. Daher haben Sie die Möglichkeit, Filme und PDFs vom Herunterladen auszuschließen. Unter Einstellungen können Sie außerdem allgemeine Regeln für das Herunterladen von Nachrichten für das Offline-Lesen festlegen";
+
+/* offlineSettings Explanation during download */
+"offlineSettingsExplanationLabel_Download" = "Je nach Verbindung kann es länger dauern, bis die Artikel heruntergeladen wurden. Anschließend stehen sie auch ohne Internetverbindung zur Verfügung";
+
+/* offlineSettingsVideoSyncLabel */
+"offlineSettingsVideoSyncLabel" = "Zusätzlich Filme speichern";
+
+/* offlineSettingsSyncPDFLabel */
+"offlineSettingsSyncPDFLabel" = "Zusätzlich PDFs speichern";
+
+/* offlineSettingsDownloadButton */
+"offlineSettingsDownloadButton" = "Abbrechen";

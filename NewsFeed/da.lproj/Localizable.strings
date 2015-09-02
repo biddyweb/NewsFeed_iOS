@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  NewsFeed
+
+  Created by AlexKern on 31.07.15.
+  Copyright (c) 2015 Kaasa Solution. All rights reserved.
+*/
+
+/* choose feeds button */
+"choose_feeds_button" = "Vælg nyheds feeds";
+
+/* selectFeedHeadline Label */
+"selectFeedHeadline" = "Vælg en eller flere feeds";
+
+/* readFeedButton */
+"readFeedButton" = "Læs nyheder nu";
+
+/* ImprintHeadline */
+"ImprintHeadline" = "Aftryk";
+
+/* ImprintContent */
+"ImprintContent" = "Danish Sülze";
+
+/* refreshView LoadingData */
+"refreshViewLoadingData" = "indlæsning af data ...";
+
+/* offlineSettings HeaderLabel */
+"offlineSettingsHeaderLabel" = "Her kan du downloade alle nyheder til off line brug";
+
+/* offlineSettings HeaderLabel during download*/
+"offlineSettingsHeaderLabel_Download" = "Vent venligst mens artiklerne downloades til off line brug";
+
+/* offlineSettings Explanation */
+"offlineSettingsExplanationLabel" = "Med download funktionen vil de seneste nyheder blive arkiveret og være tilgængelige, også når du er off line. Afhængig af din internet forbindelse, kan det tage tid at downloade den fulde version af nyheden. Du kan derfor vælge f.eks. at udelukke film og pdf filer til download. Du kan også indstille generelle preferencer for at downloade nyheder til off line brug. Dette gør du under Indstillinger";
+
+/* offlineSettings Explanation during download */
+"offlineSettingsExplanationLabel_Download" = "Afhængig af din internet forbindelse, kan det tage et stykke tid at downloade";
+
+/* offlineSettingsVideoSyncLabel */
+"offlineSettingsVideoSyncLabel" = "Gem også film";
+
+/* offlineSettingsSyncPDFLabel */
+"offlineSettingsSyncPDFLabel" = "Gem også pdf filer";
+
+/* offlineSettingsDownloadButton */
+"offlineSettingsDownloadButton" = "Fortryd";

@@ -11,6 +11,7 @@
 
 int main(int argc, char * argv[]) {
     @autoreleasepool {
+        LocalizationSetLanguage([[NSUserDefaults standardUserDefaults] valueForKey:PREF_LANGUAGE]);
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
